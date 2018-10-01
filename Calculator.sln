@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{EF0648B0-0633-478B-B02D-329C4C2E3768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum", "Sum\Sum.csproj", "{92AE0F55-AA4F-497E-BAA1-657DD2AD2A5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Sum", "Test_Sum\Test_Sum.csproj", "{832AC081-1A00-4D75-A1AA-33D2300A4077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF0648B0-0633-478B-B02D-329C4C2E3768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0648B0-0633-478B-B02D-329C4C2E3768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0648B0-0633-478B-B02D-329C4C2E3768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0648B0-0633-478B-B02D-329C4C2E3768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92AE0F55-AA4F-497E-BAA1-657DD2AD2A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92AE0F55-AA4F-497E-BAA1-657DD2AD2A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92AE0F55-AA4F-497E-BAA1-657DD2AD2A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92AE0F55-AA4F-497E-BAA1-657DD2AD2A5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{832AC081-1A00-4D75-A1AA-33D2300A4077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832AC081-1A00-4D75-A1AA-33D2300A4077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832AC081-1A00-4D75-A1AA-33D2300A4077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832AC081-1A00-4D75-A1AA-33D2300A4077}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6423296D-6443-4848-9015-89C37DE2437E}
+	EndGlobalSection
+EndGlobal
